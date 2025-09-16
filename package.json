@@ -1,0 +1,26 @@
+{
+  "name": "chat-api",
+  "version": "1.0.0",
+  "description": "API de Chat com Node.js e MySQL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nato0202/ProvaBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nato0202/ProvaBackend/issues"
+  },
+  "homepage": "https://github.com/Nato0202/ProvaBackend#readme"
+}
